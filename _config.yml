@@ -14,7 +14,8 @@ presskit_download_link                    : https://otechgroup.com              
 app_icon                                  : assets/filler_logo_small.jpg                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Filler Gas App                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Get Gas Where ever and When ever.
+app_description                           : Fuel Your Journey with Ease – Introducing Filler
+                                            Experience the convenience of on-demand fuel delivery with Filler, your go-to solution for refueling anywhere, anytime. Say goodbye to unnecessary detours to gas stations and hello to more time enjoying your journey. With Filler, simply set your location, choose your preferred delivery time, and let us handle the rest. Our secure and user-friendly app ensures that your vehicle is fueled up and ready to go with just a few taps. Whether you're at work, home, or anywhere in between, Filler brings the fuel to you, transforming the way you manage your refueling needs. Join us on the road to a hassle-free, efficient, and innovative fueling experience.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
